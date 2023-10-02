@@ -2,13 +2,11 @@
 
 ## Содержание
 
-[](theory/)
+[Тип данных string](theory/01-string-base.md)
 
-[](theory/)
+[Индексы строк](theory/02-indexes.md)
 
-[](theory/)
-
-[](theory/)
+[Срезы](theory/03-slices.md)
 
 <hr>
 
