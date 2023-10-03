@@ -8,6 +8,8 @@
 
 [Срезы](theory/03-slices.md)
 
+[Необходимые методы](theory/04-methods.md)
+
 <hr>
 
 # Клонирование
